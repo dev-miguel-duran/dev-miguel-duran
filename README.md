@@ -25,13 +25,11 @@ Siempre estoy buscando nuevos retos técnicos, aprender buenas prácticas y cons
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white" alt="Alpine.js" />
 </p>
 
 **DevOps & Cloud**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 </p>
 
@@ -41,16 +39,8 @@ Siempre estoy buscando nuevos retos técnicos, aprender buenas prácticas y cons
 
 #### 🎓 [TestApp](https://testapp.infinityfree.io)
 Plataforma educativa para la creación, gestión y evaluación automática de tests formativos.
-* **Stack:** Laravel, PHP, MySQL, Alpine.js
-* **Características:** Arquitectura MVC optimizada con el patrón de Servicios para abstraer la lógica compleja y Middlewares para el control estricto de roles. Diseño avanzado de base de datos utilizando campos JSON e integración de interfaces reactivas con Blade y Alpine.js.
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-miguel-duran&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de Miguel" />
-</p>
+* **Stack:** Laravel, PHP, MySQL
+* **Características:** Arquitectura MVC optimizada con el patrón de Servicios para abstraer la lógica compleja y Middlewares para el control estricto de roles. Diseño avanzado de base de datos utilizando campos JSON e integración de interfaces reactivas con Blade.
 
 ---
 

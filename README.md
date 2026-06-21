@@ -1,16 +1,66 @@
-## Hi there 👋
+# ¡Hola! Soy Miguel Durán 👋
 
-<!--
-**dev-miguel-duran/dev-miguel-duran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Web Junior | Técnico Superior en DAW 🚀
 
-Here are some ideas to get you started:
+Soy un apasionado del desarrollo de software radicado en Madrid, España. Recientemente titulado como Técnico Superior en Desarrollo de Aplicaciones Web (DAW) y con experiencia práctica previa. Me especializo en el ecosistema Backend, disfrutando especialmente al diseñar bases de datos eficientes y abstraer lógica de negocio compleja.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Siempre estoy buscando nuevos retos técnicos, aprender buenas prácticas y construir aplicaciones escalables.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+**Backend & Bases de Datos**
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white" alt="Alpine.js" />
+</p>
+
+**DevOps & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+</p>
+
+---
+
+### 🚀 Proyectos Destacados
+
+#### 🎓 [TestApp](https://github.com/Carlos17082005/TFG_TestApp)
+Plataforma educativa para la creación, gestión y evaluación automática de tests formativos.
+* **Stack:** Laravel 12, PHP, MySQL, Alpine.js, TailwindCSS.
+* **Características:** Arquitectura MVC con patrón de Servicios, control estricto de roles mediante Middlewares, uso de bases de datos relacionales con campos JSON polimórficos e integración de colas (Jobs) para envíos asíncronos.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-miguel-duran&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de Miguel" />
+</p>
+
+---
+
+### 📫 Conecta conmigo
+
+<p>
+  <a href="https://linkedin.com/in/dev-miguelduran">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dev.miguel.duran@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>********
